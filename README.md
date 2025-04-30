@@ -6,8 +6,6 @@ Computer Science Student - Tech Enthusiast
 
 I am currently a Computer Science and Mathematics major. My main focus area is on Full-stack Engineering!
 
-* ✉️  You can contact me at [phamngochuyen1911@gmail.com](mailto:phamngochuyen1911@gmail.com)
-
 ### Skills
 
 
